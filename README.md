@@ -1,5 +1,6 @@
 # React Projects
 
+(not maintained, was just for practice earlier)
 A couple of projects to get familiar with the React framework.
 
 ![Giphy](https://media.giphy.com/media/l0HUhhAtb86vYAHkY/giphy.gif)
@@ -54,4 +55,4 @@ https://redux.js.org/advanced/example-reddit-api
 
 ## Contributing
 
-Feel free to open issues and pull requests!
+Sorry, as this was a practice repo and no longer maintained, will not be updating the repo nor looking into issues/PRs.
