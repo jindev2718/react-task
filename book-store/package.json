@@ -29,7 +29,7 @@
   "author": "ajayns",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "3.3.7",
+    "bootstrap": "3.4.1",
     "object-assign": "4.1.0",
     "react": "15.3.2",
     "react-dom": "15.3.2",
@@ -74,7 +74,7 @@
     "json-loader": "0.5.4",
     "mocha": "3.1.2",
     "mockdate": "1.0.4",
-    "node-sass": "3.10.1",
+    "node-sass": "7.0.0",
     "npm-run-all": "3.1.1",
     "open": "0.0.5",
     "postcss-loader": "1.0.0",
